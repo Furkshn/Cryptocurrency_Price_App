@@ -8,6 +8,8 @@
 
 :white_medium_small_square:	 **Cryptocurrency application that displays instant cryptocurrency prices and reads prices with the Google Text-to-Speech library.**
 
+<br> 
+
 - **The transactions within the cryptocurrency price application are as follows;**
 
 
